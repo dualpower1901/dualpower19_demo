@@ -1,2 +1,3 @@
 # dualpower19_demo
-This my Practice Repository
+This is my Practice Repository
+Author - Kiran Kumar
